@@ -1,5 +1,5 @@
 # Playground
-CS263 AC299R AC207 AM205
+Shuheng Liu is taking CS263, AC299R, AC207, and AM205.
 
 A place to play with `git`.
 
